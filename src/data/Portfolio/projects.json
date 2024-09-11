@@ -1,0 +1,256 @@
+{
+  "filters": [
+    { "title": "All", "filter": "all" },
+    { "title": "Key Services", "filter": ".key-services" },
+    { "title": "Electrical and Electronics", "filter": ".electrical-electronics" },
+    { "title": "Diagnostics and Repair", "filter": ".diagnostics-repair" },
+    { "title": "Locks and Security", "filter": ".locks-security" },
+    { "title": "General Maintenance", "filter": ".general-maintenance" },
+    { "title": "Customization and Upgrades", "filter": ".customization-upgrades" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "filter": "key-services",
+      "image": "/assets/add/highway (14).jpeg",
+      "title": "Car Key Programming",
+      "type": "Key Services",
+      "details": "Expert car key programming to ensure your new key works seamlessly.",
+      "tags": ["Key Services"]
+    },
+    {
+      "id": "2",
+      "filter": "key-services",
+      "image": "/assets/add/highway (21).jpeg",
+      "title": "Car Key Cutting",
+      "type": "Key Services",
+      "details": "Precision car key cutting for a perfect fit every time.",
+      "tags": ["Key Services"]
+    },
+    {
+      "id": "3",
+      "filter": "key-services",
+      "image": "/assets/add/highway (20).jpeg",
+      "title": "Car Key Replacement",
+      "type": "Key Services",
+      "details": "Quick and reliable car key replacement services.",
+      "tags": ["Key Services"]
+    },
+    {
+      "id": "4",
+      "filter": "key-services",
+      "image": "/assets/add/highway (10).jpeg",
+      "title": "Remote Key Fob Replacement",
+      "type": "Key Services",
+      "details": "Replace your remote key fob efficiently with our services.",
+      "tags": ["Key Services"]
+    },
+    {
+      "id": "5",
+      "filter": "key-services",
+      "image": "/assets/add/highway (5).jpeg",
+      "title": "Transponder Key Services",
+      "type": "Key Services",
+      "details": "Comprehensive transponder key services for added security.",
+      "tags": ["Key Services"]
+    },
+    {
+      "id": "6",
+      "filter": "electrical-electronics",
+      "image": "/assets/add/radioun.jpg",
+      "title": "Car Radio Unlocking",
+      "type": "Electrical and Electronics",
+      "details": "Unlock your car radio with our expert services.",
+      "tags": ["Electrical and Electronics"]
+    },
+    {
+      "id": "7",
+      "filter": "electrical-electronics",
+      "image": "/assets/add/alarm.jpg",
+      "title": "Car Alarm Installation",
+      "type": "Electrical and Electronics",
+      "details": "Secure your vehicle with our professional car alarm installation.",
+      "tags": ["Electrical and Electronics"]
+    },
+    {
+      "id": "8",
+      "filter": "electrical-electronics",
+      "image": "/assets/add/car comp.png",
+      "title": "Car Computer Repair",
+      "type": "Electrical and Electronics",
+      "details": "Expert repairs for your car's computer systems.",
+      "tags": ["Electrical and Electronics"]
+    },
+    {
+      "id": "9",
+      "filter": "electrical-electronics",
+      "image": "/assets/add/Car-battery.jpg",
+      "title": "Car Battery Replacement",
+      "type": "Electrical and Electronics",
+      "details": "Quick and reliable car battery replacement services.",
+      "tags": ["Electrical and Electronics"]
+    },
+    {
+      "id": "10",
+      "filter": "electrical-electronics",
+      "image": "/assets/add/elect.webp",
+      "title": "Electrical System Diagnostics",
+      "type": "Electrical and Electronics",
+      "details": "Advanced diagnostics for your car's electrical system.",
+      "tags": ["Electrical and Electronics"]
+    },
+    {
+      "id": "11",
+      "filter": "diagnostics-repair",
+      "image": "/assets/add/highway (15).jpeg",
+      "title": "Computerized Car Diagnosis",
+      "type": "Diagnostics and Repair",
+      "details": "State-of-the-art computerized diagnostics for your vehicle.",
+      "tags": ["Diagnostics and Repair"]
+    },
+    {
+      "id": "12",
+      "filter": "diagnostics-repair",
+      "image": "/assets/add/ac.jpg",
+      "title": "AC System Repair and Refill",
+      "type": "Diagnostics and Repair",
+      "details": "Keep your AC system in top condition with our repair and refill services.",
+      "tags": ["Diagnostics and Repair"]
+    },
+    {
+      "id": "13",
+      "filter": "diagnostics-repair",
+      "image": "/assets/add/highway (3).jpeg",
+      "title": "Ignition System Repair",
+      "type": "Diagnostics and Repair",
+      "details": "Reliable ignition system repair to keep your car running smoothly.",
+      "tags": ["Diagnostics and Repair"]
+    },
+    {
+      "id": "14",
+      "filter": "diagnostics-repair",
+      "image": "/assets/add/check.jpg",
+      "title": "Engine Light Diagnostics",
+      "type": "Diagnostics and Repair",
+      "details": "Accurate diagnostics for your car's engine light issues.",
+      "tags": ["Diagnostics and Repair"]
+    },
+    {
+      "id": "15",
+      "filter": "diagnostics-repair",
+      "image": "/assets/add/transmission.jpg",
+      "title": "Transmission Repair",
+      "type": "Diagnostics and Repair",
+      "details": "Expert transmission repair services for a smooth drive.",
+      "tags": ["Diagnostics and Repair"]
+    },
+    {
+      "id": "16",
+      "filter": "locks-security",
+      "image": "/assets/add/ignition.webp",
+      "title": "Car Ignition and Lock Repair",
+      "type": "Locks and Security",
+      "details": "Expert repair services for your car's ignition and locks.",
+      "tags": ["Locks and Security"]
+    },
+    {
+      "id": "17",
+      "filter": "locks-security",
+      "image": "/assets/add/highway (4).jpeg",
+      "title": "Vehicle Lockout Services",
+      "type": "Locks and Security",
+      "details": "Quick and reliable vehicle lockout services.",
+      "tags": ["Locks and Security"]
+    },
+    {
+      "id": "18",
+      "filter": "locks-security",
+      "image": "/assets/add/theft.webp",
+      "title": "Anti-theft System Installation and Repair",
+      "type": "Locks and Security",
+      "details": "Enhance your vehicle's security with our anti-theft system services.",
+      "tags": ["Locks and Security"]
+    },
+    {
+      "id": "19",
+      "filter": "locks-security",
+      "image": "/assets/add/highway (6).jpeg",
+      "title": "Keyless Entry System Installation",
+      "type": "Locks and Security",
+      "details": "Upgrade your car with our keyless entry system installation.",
+      "tags": ["Locks and Security"]
+    },
+    {
+      "id": "20",
+      "filter": "general-maintenance",
+      "image": "/assets/add/general.webp",
+      "title": "Regular Car Maintenance",
+      "type": "General Maintenance",
+      "details": "Comprehensive maintenance services including oil changes and filter replacements.",
+      "tags": ["General Maintenance"]
+    },
+    {
+      "id": "21",
+      "filter": "general-maintenance",
+      "image": "/assets/add/break.webp",
+      "title": "Brake System Repair",
+      "type": "General Maintenance",
+      "details": "Ensure your safety with our expert brake system repair services.",
+      "tags": ["General Maintenance"]
+    },
+    {
+      "id": "22",
+      "filter": "general-maintenance",
+      "image": "/assets/add/suspension.jpeg",
+      "title": "Suspension and Steering Repairs",
+      "type": "General Maintenance",
+      "details": "Reliable repairs for your vehicle's suspension and steering systems.",
+      "tags": ["General Maintenance"]
+    },
+    {
+      "id": "23",
+      "filter": "general-maintenance",
+      "image": "/assets/add/tire1.jpg",
+      "title": "Tire Services",
+      "type": "General Maintenance",
+      "details": "Expert tire services including rotation, balancing, and alignment.",
+      "tags": ["General Maintenance"]
+    },
+    {
+      "id": "24",
+      "filter": "customization-upgrades",
+      "image": "/assets/add/car audio.jpg",
+      "title": "Car Audio System Upgrades",
+      "type": "Customization and Upgrades",
+      "details": "Upgrade your car's audio system for the ultimate sound experience.",
+      "tags": ["Customization and Upgrades"]
+    },
+    {
+      "id": "25",
+      "filter": "customization-upgrades",
+      "image": "/assets/add/led.jpg",
+      "title": "LED Lighting Installation",
+      "type": "Customization and Upgrades",
+      "details": "Enhance your vehicle with our LED lighting installation services.",
+      "tags": ["Customization and Upgrades"]
+    },
+    {
+      "id": "26",
+      "filter": "customization-upgrades",
+      "image": "/assets/add/aftermarket.png",
+      "title": "Aftermarket Accessory Installation",
+      "type": "Customization and Upgrades",
+      "details": "Personalize your car with our aftermarket accessory installation services.",
+      "tags": ["Customization and Upgrades"]
+    },
+    {
+      "id": "27",
+      "filter": "customization-upgrades",
+      "image": "/assets/add/perfomancetuning.jpg",
+      "title": "Performance Tuning",
+      "type": "Customization and Upgrades",
+      "details": "Boost your car's performance with our expert tuning services.",
+      "tags": ["Customization and Upgrades"]
+    }
+  ]
+}

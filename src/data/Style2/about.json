@@ -1,0 +1,33 @@
+{
+  "tablist": [
+    {
+      "id": "abt1-tab",
+      "tab_id": "abt1",
+      "text": "Our Mission"
+    },
+    {
+      "id": "abt2-tab",
+      "tab_id": "abt2",
+      "text": "Our vision"
+    },
+    {
+      "id": "abt3-tab",
+      "tab_id": "abt3",
+      "text": "Our Goal"
+    }
+  ],
+  "tabpanels": [
+    {
+      "id": "abt1",
+      "text": "Delivering top-tier automotive services with a focus on quality, customer satisfaction, and innovation."
+    },
+    {
+      "id": "abt2",
+      "text": "To be the leading provider of comprehensive automotive solutions, setting new standards in service and reliability."
+    },
+    {
+      "id": "abt3",
+      "text": "To ensure every vehicle we service runs smoothly, safely, and efficiently, enhancing the driving experience for our customers."
+    }
+  ]
+}

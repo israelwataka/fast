@@ -1,0 +1,39 @@
+[
+  {
+    "uid": "news-004",
+    "image": "/assets/blog/tech.jpg",
+    "type": "news",
+    "time": "310 Days ago",
+    "title": "Electric Cars Revolutionize 2023",
+    "desc": "Electric vehicles are taking the automotive world by storm, with new advancements and models emerging rapidly.",
+    "userImgLetter": "A",
+    "username": "Admin",
+    "comments": "24",
+    "views": "774k"
+  },
+  {
+    "uid": "news-005",
+    "image": "/assets/blog/electric2.jpg",
+    "type": "news",
+    "time": "129 Days ago",
+    "title": "Autonomous Vehicles Gain Momentum",
+    "desc": "Self-driving cars are becoming more common on the roads, with major advancements in AI technology driving this trend.",
+    "userImgLetter": "A",
+    "username": "Admin",
+    "comments": "24",
+    "views": "774k"
+  },
+  {
+    "uid": "news-006",
+    "image": "/assets/blog/spy1.webp",
+    "type": "news",
+    "time": "103 Days ago",
+    "title": "From Spy Shots to New Releases to Auto Show Coverage",
+    "desc": "The automotive industry is focusing on sustainable fuel sources, aiming to reduce carbon emissions and environmental impact.",
+    "userImgLetter": "A",
+    "username": "Admin",
+    "comments": "24",
+    "views": "774k"
+  }
+]
+

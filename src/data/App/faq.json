@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "question": "Can you provide an estimate before starting work on my car?",
+    "answer": {
+      "part1": "Absolutely. We offer free estimates for all our services.",
+      "part2": " After diagnosing the issue, we will provide you with a detailed estimate before proceeding with any work."
+    }
+  },
+  {
+    "id": 2,
+    "question": "Do I need to make an appointment for services?",
+    "answer": {
+      "part1": "While walk-ins are welcome, we recommend making an appointment to ensure prompt service. ",
+      "part2": " You can book an appointment online or by calling our customer service."
+    }
+  },
+  {
+    "id": 3,
+    "question": "What are your operating hours?",
+    "answer": {
+      "part1": "Our operating hours are Monday to Friday from 8:00 AM to 6:00 PM, and Saturday from 9:00 AM to 4:00 PM.  ",
+      "part2": " We are closed on Sundays and public holidays."
+    }
+  },
+  {
+    "id": 4,
+    "question": "What are the signs that my car's computer needs repair?",
+    "answer": {
+      "part1": "Common signs include warning lights on the dashboard, poor engine performance, and electrical issues.  ",
+      "part2": " Our computerized car diagnosis can identify and fix these problems."
+    }
+  },
+  {
+    "id": 5,
+    "question": "How often should I refill my car's AC system?",
+    "answer": {
+      "part1": "It’s recommended to refill your car’s AC system every 1-2 years to maintain optimal performance.  ",
+      "part2": " We offer AC system repair and refill services to keep your vehicle cool."
+    }
+  },
+  {
+    "id": 6,
+    "question": "What types of car key cutting services do you offer?",
+    "answer": {
+      "part1": "We offer traditional key cutting, laser key cutting, and transponder key cutting services. ",
+      "part2": " Our advanced equipment ensures precision and accuracy."
+    }
+  },
+  {
+    "id": 7,
+    "question": "Can you program a new key for my car?",
+    "answer": {
+      "part1": "Yes, we specialize in car key programming for all makes and models. ",
+      "part2": " Our technicians can create and program new keys for your vehicle on the spot."
+    }
+  },
+  {
+    "id": 8,
+    "question": "What should I do if I lose my car keys?",
+    "answer": {
+      "part1": "If you lose your car keys, contact us immediately for a car key replacement. ",
+      "part2": "  We provide key cutting and programming services to get you back on the road quickly."
+    }
+  },
+  {
+    "id": 9,
+    "question": "What are the signs that my car's computer needs repair?",
+    "answer": {
+      "part1": "Common signs include warning lights on the dashboard, poor engine performance, and electrical issues.  ",
+      "part2": " Our computerized car diagnosis can identify and fix these problems."
+    }
+  }
+]

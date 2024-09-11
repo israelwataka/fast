@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "news-001",
+    "image": "/assets/blog/diagnosis.jpg",
+    "type": "News",
+    "time": "3 Days ago",
+    "title": "Highway Autosolutions Launches New Diagnostic Service",
+    "desc": "Highway Autosolutions is excited to announce the launch of our new state-of-the-art diagnostic service, ensuring your vehicle stays in top condition."
+  },
+  {
+    "uid": "news-002",
+    "image": "/assets/blog/supply1.jpg",
+    "type": "News",
+    "time": "3 Days ago",
+    "title": "Highway Autosolutions Partners with Leading Auto Parts Supplier",
+    "desc": "We are proud to partner with one of the leading auto parts suppliers to bring high-quality components to our valued customers."
+  },
+  {
+    "uid": "news-003",
+    "image": "/assets/blog/customer2.jpg",
+    "type": "News",
+    "time": "3 Days ago",
+    "title": "Customer Satisfaction at Highway Autosolutions Hits Record High",
+    "desc": "We are thrilled to announce that customer satisfaction ratings have reached an all-time high, reflecting our commitment to quality service."
+  }
+]

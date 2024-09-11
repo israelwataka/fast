@@ -1,0 +1,204 @@
+{
+    "news-001": {
+      "title": "Highway Autosolutions Launches New Diagnostic Service",
+      "time": "5 Days ago",
+      "type": "news",
+      "user": {
+        "name": "Admin",
+        "imgLetter": "a"
+      },
+      "commentsCount": 18,
+      "viewsCount": "800k",
+      "commentCard": {
+        "user": {
+          "picture": "/assets/blog/user.png",
+          "name": "Michael T."
+        },
+        "date": "@michaelt  - 22 Dec, 2022",
+        "text": "The latest advancements in automotive technology are set to change the industry landscape. Here's what you need to know."
+      },
+      "comments": [
+        {
+          "user": {
+            "picture": "/assets/img/team/3.jpeg",
+            "name": "Sarah W."
+          },
+          "time": "2 hours ago",
+          "content": "Exciting times ahead for the automotive sector!",
+          "replies": []
+        }
+      ]
+    },
+    "news-002": {
+      "title": "Partnership Announcement: A New Era in Auto Parts",
+      "time": "10 Days ago",
+      "type": "news",
+      "user": {
+        "name": "Admin",
+        "imgLetter": "p"
+      },
+      "commentsCount": 15,
+      "viewsCount": "650k",
+      "commentCard": {
+        "user": {
+          "picture": "/assets/blog/user.png",
+          "name": "John D."
+        },
+        "date": "@johnd  - 20 Dec, 2022",
+        "text": "Exciting news! We're thrilled to announce our new partnership that aims to revolutionize the auto parts industry. Stay tuned for more updates!"
+      },
+      "comments": [
+        {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "J De"
+          },
+          "time": "1 hour ago",
+          "content": "This partnership sounds promising! Looking forward to seeing the innovations it brings.",
+          "replies": [
+            {
+              "user": {
+                "picture": "/assets/blog/user.png",
+                "name": "Alex Smith"
+              },
+              "time": "30 minutes ago",
+              "content": "Absolutely, Jane! It's exciting to see what the future holds."
+            }
+          ]
+        },
+        {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Emily R."
+          },
+          "time": "5 hours ago",
+          "content": "Great news! It's always inspiring to see companies collaborating to improve the industry.",
+          "replies": []
+        }
+      ]
+    },
+    "news-003": {
+      "title": "Customer Satisfaction at Highway Autosolutions Hits Record High",
+      "time": "7 Days ago",
+      "type": "news",
+      "user": {
+        "name": "Admin",
+        "imgLetter": "s"
+      },
+      "commentsCount": 22,
+      "viewsCount": "500k",
+      "commentCard": {
+        "user": {
+          "picture": "/assets/blog/user.png",
+          "name": "Laura M."
+        },
+        "date": "@lauram  - 18 Dec, 2022",
+        "text": "As the automotive industry moves towards more sustainable practices, here's how manufacturers are adapting."
+      },
+      "comments": [
+        {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Chris H."
+          },
+          "time": "3 hours ago",
+          "content": "It's great to see the industry focusing on sustainability!",
+          "replies": []
+        }
+      ]
+    },
+    "news-004": {
+      "title": "Electric Vehicles: The Future of Transportation",
+      "time": "12 Days ago",
+      "type": "news",
+      "user": {
+        "name": "Admin",
+        "imgLetter": "e"
+      },
+      "commentsCount": 30,
+      "viewsCount": "900k",
+      "commentCard": {
+        "user": {
+          "picture": "/assets/blog/user.png",
+          "name": "Sam K."
+        },
+        "date": "@samk  - 15 Dec, 2022",
+        "text": "Electric vehicles are quickly becoming the norm. Here's why they are the future of transportation."
+      },
+      "comments": [
+        {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Anna L."
+          },
+          "time": "2 hours ago",
+          "content": "EVs are indeed the future! Excited to see more options available soon.",
+          "replies": []
+        }
+      ]
+    },
+    "news-005": {
+      "title": "Autonomous Driving: What's Next?",
+      "time": "14 Days ago",
+      "type": "news",
+      "user": {
+        "name": "Admin",
+        "imgLetter": "d"
+      },
+      "commentsCount": 35,
+      "viewsCount": "1M",
+      "commentCard": {
+        "user": {
+          "picture": "/assets/blog/user.png",
+          "name": "David G."
+        },
+        "date": "@davidg  - 10 Dec, 2022",
+        "text": "The journey towards fully autonomous vehicles continues. Here's an update on the latest developments."
+      },
+      "comments": [
+        {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Mark Z."
+          },
+          "time": "1 hour ago",
+          "content": "The advancements in autonomous driving technology are incredible!",
+          "replies": []
+        }
+      ]
+    },
+    "sidebar": {
+      "recentPosts": [
+        { "title": "Auto Tech Innovations in 2023", "image": "/assets/blog/user.png" },
+        { "title": "Partnership Announcement: A New Era in Auto Parts", "image": "/assets/blog/user.png" },
+        { "title": "Sustainability in Auto Manufacturing", "image": "/assets/blog/user.png" },
+        { "title": "Electric Vehicles: The Future of Transportation", "image": "/assets/blog/user.png" },
+        { "title": "Autonomous Driving: What's Next?", "image": "/assets/blog/user.png" }
+      ],
+      "categories": [
+        { "title": "all", "count": 265 },
+        { "title": "News", "count": 38 },
+        { "title": "Technology", "count": 16 },
+        { "title": "Tips & Tricks", "count": 85 },
+        { "title": "Career", "count": 21 },
+        { "title": "Community", "count": 874 },
+        { "title": "Videos", "count": 54 },
+        { "title": "Others", "count": 85 }
+      ],
+      "instagram": [
+      "/assets/img/blog/1.jpeg",
+      "/assets/blog/electric1.jpg",
+      "/assets/blog/Autonomous1.jpeg",
+      "/assets/blog/tires1.jpg",
+      "/assets/blog/oilchange.jpg",
+      "/assets/blog/winter2.jpg"
+    ],
+      "tags": [
+        "Auto Parts", "Innovation", "Partnership",
+        "Industry", "Technology", "Marketing",
+        "Business", "Collaboration", "News",
+        "Updates"
+      ]
+    }
+  }
+  

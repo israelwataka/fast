@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "news-004",
+    "cover": "/assets/blog/tech2.webp",
+    "type": "news",
+    "time": "3 Days ago",
+    "title": "Revolutionizing Auto Maintenance with Smart Technology",
+    "desc": "Electric vehicles are taking the automotive world by storm, with new advancements and models emerging rapidly.",
+    "userImgLetter": "A",
+    "username": "Admin",
+    "comments": "24",
+    "views": "774k"
+  },
+  {
+    "uid": "news-005",
+    "cover": "/assets/blog/electric.png",
+    "type": "news",
+    "time": "3 Days ago",
+    "title": "The Impact of Electric Vehicles on the Auto Repair Industry",
+    "desc": "Self-driving cars are becoming more common on the roads, with major advancements in AI technology driving this trend.",
+    "userImgLetter": "A",
+    "username": "Admin",
+    "comments": "24",
+    "views": "774k"
+  },
+  {
+    "uid": "news-006",
+    "cover": "/assets/blog/spy.jpg",
+    "type": "news",
+    "time": "3 Days ago",
+    "title": "From Spy Shots to New Releases to Auto Show Coverage",
+    "desc": "The automotive industry is focusing on sustainable fuel sources, aiming to reduce carbon emissions and environmental impact.",
+    "userImgLetter": "A",
+    "username": "Admin",
+    "comments": "24",
+    "views": "774k"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "st1": [
+    "/landing-preview/img/header/1.jpg",
+    "/landing-preview/img/header/2.jpg",
+    "/landing-preview/img/header/3.jpg",
+    "/assets/services/carkey.webp",
+    "/landing-preview/img/header/5.jpg",
+    "/assets/services/radiounlock.jpg",
+    "/assets/services/alarminstall.jpg"
+  ],
+  "st2": [
+    "/assets/services/ac.jpg",
+    "/assets/services/light.jpg",
+    "/assets/services/audio.jpg",
+    "/assets/services/tire.jpg",
+    "/assets/services/led.jpg",
+    "/assets/services/after.png",
+    "/assets/add/elect.webp"
+  ]
+}

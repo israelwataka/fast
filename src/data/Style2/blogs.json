@@ -1,0 +1,23 @@
+[
+  {
+    "uid": "news-007",
+    "image": "/assets/blog/electrical.webp",
+    "date": "Oct 21, 2023",
+    "author": "Admin",
+    "title": "Electric Cars Leading the Future"
+  },
+  {
+    "uid": "news-008",
+    "image": "/assets/blog/Autonomous1.jpeg",
+    "date": "Oct 21, 2023",
+    "author": "Admin",
+    "title": "Advancements in Autonomous Driving"
+  },
+  {
+    "uid": "tips-001",
+    "image": "/assets/blog/maintenance2.jpg",
+    "date": "Oct 21, 2023",
+    "author": "Admin",
+    "title": "Top 5 Maintenance Tips for Your Car"
+  }
+]

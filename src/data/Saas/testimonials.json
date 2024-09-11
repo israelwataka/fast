@@ -1,0 +1,83 @@
+[
+  {
+    "stars": 5,
+    "comment": "“My car key stopped working one day, and I was completely stranded. Highway Autosolutions' car key programming service saved me. They quickly programmed a new key, and it works flawlessly. The team was so helpful and understanding of my situation. I highly recommend their services.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "John D",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“I needed a spare key for my car, and the cutting service at Highway Autosolutions was excellent. They cut the key perfectly, and it fits like a glove. The service was quick, and the staff was friendly and knowledgeable. Now I have a reliable spare key, and I couldn't be happier.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "Jane Smith",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“When I lost my car key fob, I thought it would be a nightmare to get a replacement. But Highway Autosolutions made the process so easy. They replaced my remote key fob quickly, and it works perfectly with my car. Their service was top-notch, and I was back on the road in no time.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "Emily Johnson",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“I was having issues with my car battery, and it kept dying unexpectedly. Highway Autosolutions diagnosed the problem and replaced the battery efficiently. Since then, my car starts up without any issues. Their service was professional and thorough. I'm very satisfied with the outcome.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "Michael Brown",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“The check engine light on my car had been on for weeks, and I was worried about the potential cost of repairs. Highway Autosolutions provided a detailed diagnosis and fixed the issue quickly. The transparency and expertise they showed put my mind at ease. Now my car runs smoothly again.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "Sarah Davis",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“I've always wanted to upgrade my car's audio system, but I was hesitant about the installation process. Highway Autosolutions did an amazing job with the upgrade. The sound quality is phenomenal, and they handled everything professionally. I'm thrilled with my new audio system.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "David Wilson",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“Routine car maintenance is crucial, and Highway Autosolutions proved to be the best at it. They handled my oil change and filter replacements with great care. The team was very thorough and ensured everything was in perfect working order. I trust them completely with my car maintenance needs.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "Laura Martinez",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“My car was having serious ignition issues, making it difficult to start. The team at Highway Autosolutions diagnosed and repaired the ignition system quickly. Since then, my car starts smoothly every time. Their expertise and efficient service made a huge difference. Highly recommend them.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "James Anderson",
+      "position": "Customer"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“I decided to install LED lighting on my car for better visibility and style. Highway Autosolutions did an outstanding job with the installation. The lights look fantastic and perform brilliantly. Their attention to detail and professional service exceeded my expectations. I'm very pleased with the result.”",
+    "author": {
+      "image": "/assets/blog/user.png",
+      "name": "Patricia Thomas",
+      "position": "Customer"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "bi bi-lightning-charge",
+    "title": "Fast & Efficient Service",
+    "description": "We prioritize quick turnaround times without compromising on quality, ensuring you get back on the road swiftly."
+  },
+  {
+    "icon": "bi bi-person-badge",
+    "title": "Certified Technicians",
+    "description": "Our team consists of highly trained and certified professionals dedicated to delivering top-notch automotive care."
+  },
+  {
+    "icon": "bi bi-gear",
+    "title": "Advanced Diagnostics",
+    "description": "Utilizing the latest technology, we provide accurate and comprehensive diagnostics for your vehicle"
+  },
+  {
+    "icon": "bi bi-calendar-check",
+    "title": " Convenient Online Booking",
+    "description": "Easily schedule your appointments online with our user-friendly booking system, available 24/7."
+  },
+  {
+    "icon": "bi bi-shield-check",
+    "title": "Quality Parts",
+    "description": "We use only high-quality OEM and aftermarket parts to ensure the reliability and performance of your vehicle"
+  },
+  {
+    "icon": "bi bi-hand-thumbs-up",
+    "title": "Customer Satisfaction",
+    "description": "Your satisfaction is our top priority. We strive to exceed your expectations with every service we provide."
+  }
+]

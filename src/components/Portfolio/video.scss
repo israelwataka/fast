@@ -1,0 +1,45 @@
+.video-cover {
+  position: relative;
+  cursor: pointer;
+}
+
+.video-cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  color: #fff;
+}
+
+.video-lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.video-content {
+  position: relative;
+  width: 80%;
+  height: 80%;
+}
+
+.video-content .react-player {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,120 @@
+{
+  "blogs": [
+    {
+      "uid": "news-007",
+      "cover": "/assets/blog/electrical1.webp",
+      "type": "news",
+      "time": "12 Days ago",
+      "title": "Electric Cars Leading the Future",
+      "desc": "Electric cars are becoming increasingly popular, offering a sustainable alternative to traditional vehicles.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    },
+    {
+      "uid": "news-008",
+      "cover": "/assets/blog/Autonomous.webp",
+      "type": "news",
+      "time": "12 Days ago",
+      "title": "Advancements in Autonomous Driving",
+      "desc": "Autonomous driving technology is making significant strides, promising safer and more efficient transportation.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    },
+    {
+      "uid": "tips-001",
+      "cover": "/assets/blog/maintenance2.jpg",
+      "type": "tips & tricks",
+      "time": "12 Days ago",
+      "title": "Top 5 Maintenance Tips for Your Car",
+      "desc": "Keep your car in top condition with these essential maintenance tips.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    },
+    {
+      "uid": "tips-002",
+      "cover": "/assets/blog/fuel.jpg",
+      "type": "tips & tricks",
+      "time": "12 Days ago",
+      "title": "Improving Fuel Efficiency",
+      "desc": "Learn how to improve your car's fuel efficiency with these simple tips.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    },
+    {
+      "uid": "tips-003",
+      "cover": "/assets/blog/winter.jpg",
+      "type": "tips & tricks",
+      "time": "12 Days ago",
+      "title": "Winter Car Care Tips",
+      "desc": "Prepare your car for winter with these essential care tips.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    },
+    {
+      "uid": "tips-004",
+      "cover": "/assets/blog/diy2.jpg",
+      "type": "tips & tricks",
+      "time": "12 Days ago",
+      "title": "DIY Car Repairs",
+      "desc": "Save money by learning how to perform basic car repairs yourself.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    },
+    {
+      "uid": "tips-005",
+      "cover": "/assets/blog/tires.jpg",
+      "type": "tips & tricks",
+      "time": "12 Days ago",
+      "title": "Choosing the Right Tires",
+      "desc": "Find out how to choose the right tires for your vehicle and driving conditions.",
+      "userImgLetter": "A",
+      "username": "Admin",
+      "comments": "24",
+      "views": "774k"
+    }
+  ],
+  "sidebar": {
+    "recentPosts": [
+      { "uid": "news-004", "title": "Electric Cars Revolutionize 2023", "image": "/assets/blog/electric2.jpg" },
+      { "uid": "news-006", "title": "From Spy Shots to New Releases to Auto Show Coverage", "image": "/assets/blog/spy1.webp" },
+      { "uid": "tips-004", "title": "DIY Car Repairs", "image": "/assets/blog/diy2.jpg" },
+      {  "uid": "news-005", "title": "Autonomous Vehicles Gain Momentum", "image": "/assets/blog/Autonomous.webp" }
+    ],
+    "categories": [
+      { "title": "All", "count": 265 },
+      { "title": "News", "count": 38 },
+      { "title": "Technology", "count": 16 },
+      { "title": "Tips & Tricks", "count": 85 },
+      { "title": "Career", "count": 21 },
+      { "title": "Community", "count": 874 },
+      { "title": "Videos", "count": 54 },
+      { "title": "Others", "count": 85 }
+    ],
+    "instagram": [
+      "/assets/img/blog/1.jpeg",
+      "/assets/blog/electric1.jpg",
+      "/assets/blog/Autonomous1.jpeg",
+      "/assets/blog/tires1.jpg",
+      "/assets/blog/oilchange.jpg",
+      "/assets/blog/winter2.jpg"
+    ],
+    "tags": [
+      "Cars", "Electric Vehicles", "Autonomous Driving",
+      "Maintenance", "Fuel Efficiency", "Winter Care",
+      "DIY Repairs", "Tires", "Automotive News",
+      "Sustainable Transportation"
+    ]
+  }
+}

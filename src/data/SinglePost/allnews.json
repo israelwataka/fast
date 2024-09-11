@@ -1,0 +1,560 @@
+{
+    "blogs": [
+      {
+        "uid": "news-001",
+        "title": "Highway Autosolutions Launches New Diagnostic Service",
+        "time": "7 September, 2023",
+        "image": "/assets/blog/diagnosis2.jpg",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 24,
+        "viewsCount": "79k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "John W."
+          },
+          "date": "@johnw - 7 September, 2023",
+          "text": "I’ve already tried the new diagnostic service, and it’s absolutely fantastic. The speed and accuracy are unmatched!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Emily R."
+            },
+            "time": "1 hour ago",
+            "content": "I love how easy this service is to use. It saved me from a potentially costly repair!"
+          }
+        ]
+      },      
+      {
+        "uid": "news-002",
+        "title": "Highway Autosolutions Partners with Leading Auto Parts Supplier",
+        "time": "7 September, 2023",
+        "image": "/assets/blog/supply.jpg",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 32,
+        "viewsCount": "92k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Grace M."
+          },
+          "date": "@gracem - 7 September, 2023",
+          "text": "This partnership is going to change the way vehicle repairs are done. No more delays in getting the right parts!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "James K."
+            },
+            "time": "2 hours ago",
+            "content": "As a mechanic, I’m thrilled about this partnership. It’s going to make my job easier and help me serve customers better."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Sarah P."
+            },
+            "time": "1 day ago",
+            "content": "This is a fantastic development! I've always trusted Highway Autosolutions with my car, and now it’s even better."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Oliver T."
+            },
+            "time": "3 days ago",
+            "content": "Excited to see how this partnership improves the service. Great move, Highway Autosolutions!"
+          }
+        ]
+      },
+      {
+        "uid": "news-003",
+        "title": "Customer Satisfaction at Highway Autosolutions Hits Record High",
+        "time": "8 September, 2023",
+        "image": "/assets/blog/customer1.webp",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 28,
+        "viewsCount": "101k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "David M."
+          },
+          "date": "@davidm - 8 September, 2023",
+          "text": "Amazing news! I’ve always had a great experience with Highway Autosolutions."
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Lisa K."
+            },
+            "time": "5 hours ago",
+            "content": "No surprise here! Highway Autosolutions always delivers excellent service. Well deserved!"
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Tom J."
+            },
+            "time": "1 day ago",
+            "content": "High customer satisfaction is what happens when you put people first. Keep it up!"
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Natalie S."
+            },
+            "time": "2 days ago",
+            "content": "I’ve been a loyal customer for years, and it’s no surprise to see this recognition for great service."
+          }
+        ]
+      },
+      {
+        "uid": "news-004",
+        "title": "Revolutionizing Auto Maintenance with Smart Technology",
+        "time": "9 September, 2023",
+        "image": "/assets/blog/tech.jpg",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 18,
+        "viewsCount": "68k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Luke S."
+          },
+          "date": "@lukes - 9 September, 2023",
+          "text": "Exciting to see how technology is making car maintenance easier and more efficient."
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Anna B."
+            },
+            "time": "3 hours ago",
+            "content": "Smart diagnostics have really improved how quickly I can fix issues with my car. Love this tech!"
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "John T."
+            },
+            "time": "1 day ago",
+            "content": "The future of auto repairs is definitely smart. This is just the beginning."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Sophia R."
+            },
+            "time": "2 days ago",
+            "content": "It’s great to see innovations that help prevent expensive breakdowns. Smart maintenance is the way to go!"
+          }
+        ]
+      },
+      {
+        "uid": "news-005",
+        "title": "The Impact of Electric Vehicles on the Auto Repair Industry",
+        "time": "12 September, 2023",
+        "image": "/assets/blog/electric2.jpg",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 35,
+        "viewsCount": "92k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Moses N."
+          },
+          "date": "@moses_auto - 12 September, 2023",
+          "text": "Interesting take! EVs are really changing the way we think about car repairs."
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Samantha C."
+            },
+            "time": "5 hours ago",
+            "content": "I’m already seeing fewer trips to the shop with my EV! Great article."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Tom R."
+            },
+            "time": "1 day ago",
+            "content": "Auto repair shops need to evolve, or they’ll be left behind."
+          }
+        ]
+      },
+      {
+        "uid": "news-006",
+        "title": "From Spy Shots to New Releases to Auto Show Coverage",
+        "time": "14 September, 2023",
+        "image": "/assets/blog/spy1.webp",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 28,
+        "viewsCount": "85k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "James W."
+          },
+          "date": "@jamesw - 14 September, 2023",
+          "text": "Excited to see the upcoming models! Love the coverage."
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Karen F."
+            },
+            "time": "2 hours ago",
+            "content": "Spy shots are always the best part of the car release hype!"
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "David P."
+            },
+            "time": "1 day ago",
+            "content": "Can’t wait for the new reveals at the next auto show. Thanks for the great coverage!"
+          }
+        ]
+      },
+      {
+        "uid": "news-007",
+        "title": "Electric Cars Leading the Future",
+        "time": "10 October, 2023",
+        "image": "/assets/blog/electrical1.webp",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 45,
+        "viewsCount": "120k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Lisa G."
+          },
+          "date": "@lisa_g - 10 October, 2023",
+          "text": "Incredible insights into the future of electric cars. Exciting times ahead!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Mark R."
+            },
+            "time": "3 hours ago",
+            "content": "Great article on electric cars! Looking forward to seeing more advancements in this field."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Sophia H."
+            },
+            "time": "1 day ago",
+            "content": "Very informative read. Electric vehicles are definitely the future."
+          }
+        ]
+      },
+      {
+        "uid": "news-008",
+        "title": "Advancements in Autonomous Driving",
+        "time": "15 October, 2023",
+        "image": "/assets/blog/Autonomous.webp",
+        "type": "News",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 50,
+        "viewsCount": "110k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Ella P."
+          },
+          "date": "@ella_p - 15 October, 2023",
+          "text": "Fascinating insights into autonomous driving advancements. Can’t wait to see what’s next!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Ben T."
+            },
+            "time": "4 hours ago",
+            "content": "This article highlights some impressive advancements in self-driving technology. Exciting times for the auto industry!"
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Mia W."
+            },
+            "time": "1 day ago",
+            "content": "Very informative. Autonomous vehicles are definitely the future of transportation."
+          }
+        ]
+      },
+      {
+        "uid": "tips-001",
+        "title": "Top 5 Maintenance Tips for Your Car",
+        "time": "20 October, 2023",
+        "image": "/assets/blog/maintenance2.jpg",
+        "type": "Tips",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 35,
+        "viewsCount": "85k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Ryan K."
+          },
+          "date": "@ryan_k - 20 October, 2023",
+          "text": "Excellent tips for maintaining your car. Very helpful and easy to follow!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Ella R."
+            },
+            "time": "2 hours ago",
+            "content": "These maintenance tips are practical and useful. I’ll be using them to keep my car in great shape."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Chris J."
+            },
+            "time": "1 day ago",
+            "content": "Great advice on car maintenance. Very informative and easy to implement."
+          }
+        ]
+      },
+      {
+        "uid": "tips-002",
+        "title": "Improving Fuel Efficiency",
+        "time": "25 October, 2023",
+        "image": "/assets/blog/fuel.jpg",
+        "type": "Tips",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 37,
+        "viewsCount": "92k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "James F."
+          },
+          "date": "@james_f - 25 October, 2023",
+          "text": "Great tips for improving fuel efficiency. These are very practical and useful!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Megan C."
+            },
+            "time": "2 hours ago",
+            "content": "Useful advice for better fuel efficiency. I’ll be trying out these tips on my next drive."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Tom G."
+            },
+            "time": "1 day ago",
+            "content": "Informative article. Improving fuel efficiency is always a good idea."
+          }
+        ]
+      },
+      {
+        "uid": "tips-003",
+        "title": "Winter Car Care Tips",
+        "time": "30 October, 2023",
+        "image": "/assets/blog/winter.jpg",
+        "type": "Tips",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 41,
+        "viewsCount": "100k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Oliver J."
+          },
+          "date": "@oliver_j - 30 October, 2023",
+          "text": "Excellent tips for winter car care. Very helpful for staying safe during winter driving."
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Ava L."
+            },
+            "time": "3 hours ago",
+            "content": "These winter car care tips are very useful. I’ll make sure to follow them for a safe winter."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Henry M."
+            },
+            "time": "1 day ago",
+            "content": "Great article on preparing your car for winter. Very informative and practical advice."
+          }
+        ]
+      },
+      {
+        "uid": "tips-004",
+        "title": "DIY Car Repairs",
+        "time": "5 November, 2023",
+        "image": "/assets/blog/diy2.jpg",
+        "type": "Tips",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 29,
+        "viewsCount": "73k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Sophia H."
+          },
+          "date": "@sophia_h - 5 November, 2023",
+          "text": "Great DIY tips for car repairs. Very practical and easy to follow!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Liam O."
+            },
+            "time": "4 hours ago",
+            "content": "Useful tips for DIY car repairs. I’ll definitely try some of these techniques."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Mia P."
+            },
+            "time": "2 days ago",
+            "content": "Great article on DIY repairs. The tips are clear and easy to follow."
+          }
+        ]
+      },
+      {
+        "uid": "tips-005",
+        "title": "Choosing the Right Tires",
+        "time": "10 November, 2023",
+        "image": "/assets/blog/tires.jpg",
+        "type": "Tips",
+        "user": {
+          "name": "Admin",
+          "imgLetter": "A"
+        },
+        "commentsCount": 44,
+        "viewsCount": "110k",
+        "commentCard": {
+          "user": {
+            "picture": "/assets/blog/user.png",
+            "name": "Oliver S."
+          },
+          "date": "@oliver_s - 10 November, 2023",
+          "text": "Very informative article on choosing the right tires. The tips are practical and helpful!"
+        },
+        "comments": [
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "Emily K."
+            },
+            "time": "5 hours ago",
+            "content": "Great advice on selecting tires. This guide will help me make a better decision for my car."
+          },
+          {
+            "user": {
+              "picture": "/assets/blog/user.png",
+              "name": "John D."
+            },
+            "time": "1 day ago",
+            "content": "Excellent tips on tire selection. The information is clear and easy to understand."
+          }
+        ]
+      }      
+    ],
+    "sidebar": {
+    "recentPosts": [
+      { "uid": "news-004", "title": "Electric Cars Revolutionize 2023", "image": "/assets/blog/electric2.jpg" },
+      { "uid": "news-006", "title": "From Spy Shots to New Releases to Auto Show Coverage", "image": "/assets/blog/spy1.webp" },
+      { "uid": "tips-004", "title": "DIY Car Repairs", "image": "/assets/blog/diy2.jpg" },
+      {  "uid": "news-005", "title": "Autonomous Vehicles Gain Momentum", "image": "/assets/blog/Autonomous.webp" }
+    ],
+    "categories": [
+      { "title": "all", "count": 265 },
+      { "title": "News", "count": 38 },
+      { "title": "Technology", "count": 16 },
+      { "title": "Tips & Tricks", "count": 85 },
+      { "title": "Career", "count": 21 },
+      { "title": "Community", "count": 874 },
+      { "title": "Videos", "count": 54 },
+      { "title": "Others", "count": 85 }
+    ],
+   "instagram": [
+      "/assets/img/blog/1.jpeg",
+      "/assets/blog/electric1.jpg",
+      "/assets/blog/Autonomous1.jpeg",
+      "/assets/blog/tires1.jpg",
+      "/assets/blog/oilchange.jpg",
+      "/assets/blog/winter2.jpg"
+    ],
+    "tags": [
+      "Cars", "Electric Vehicles", "Autonomous Driving",
+      "Maintenance", "Fuel Efficiency", "Winter Care",
+      "DIY Repairs", "Tires", "Automotive News",
+      "Sustainable Transportation"
+      ]
+    }
+  }
+  

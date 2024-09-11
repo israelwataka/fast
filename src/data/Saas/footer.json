@@ -1,0 +1,23 @@
+{
+  "address": {
+    "address1": "Bungoma-Mumias Road, Wings,",
+    "address2": "Wings, Bungoma, KE"
+  },
+  "phone": "+254 723 880 785",
+  "email": "contact@highwayautosolutions.com",
+  "usefulLinks": [
+    { "link": "/", "title": "Home" },
+    { "link": "/about", "title": "About Highway Auto" },
+    { "link": "/portfolio", "title": "Portfolio" },
+    { "link": "/services", "title": "services" },
+    { "link": "/blog", "title": "Blog" },
+    { "link": "/contact", "title": "Contact" }
+  ],
+  "resources": [
+    { "link": "/contact", "title": "Help Centre" },
+    { "link": "#", "title": "Roadmap" },
+    { "link": "/get-quote", "title": "Get Quote" },
+    { "link": "/faq", "title": "FAQs" },
+    { "link": "/terms&conditions", "title": "terms" }
+  ]
+}
