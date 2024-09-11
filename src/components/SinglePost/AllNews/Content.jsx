@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import content from '@data/blog/cont.json';
+import content from '@data/Blog/cont.json';
 
 const Content = () => {
   const router = useRouter();
