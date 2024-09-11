@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 import PageSingle from '../blog-single'; 
-import contentData from '../../data/blog/cont.json'; 
+import contentData from '../../data/Blog/cont.json'; 
 
 const BlogPost = ({ content }) => {
   const router = useRouter();
