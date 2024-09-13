@@ -8,31 +8,31 @@
       {
         "id": "1",
         "filter": "images",
-        "image": "/assets/img/projects/prog/1.jpeg",
+        "image": "/assets/add/highway (14).jpeg",
         "title": "Car Key Programming"
       },
       {
         "id": "2",
         "filter": "images",
-        "image": "/assets/img/projects/prog/2.png",
+        "image": "/assets/add/highway (21).jpeg",
         "title": "Car Key Cutting"
       },
       {
         "id": "3",
         "filter": "images",
-        "image": "/assets/img/projects/prog/3.jpeg",
+        "image": "/assets/add/highway (20).jpeg",
         "title": "Car Key Replacement"
       },
       {
         "id": "4",
         "filter": "images",
-        "image": "/assets/img/projects/prog/4.png",
+        "image": "/assets/add/highway (10).jpeg",
         "title": "Remote Key Fob Replacement"
       },
       {
         "id": "5",
         "filter": "images",
-        "image": "/assets/img/projects/prog/5.png",
+        "image": "/assets/add/highway (5).jpeg",
         "title": "Transponder Key Services"
       },
       {
@@ -44,40 +44,40 @@
       {
         "id": "7",
         "filter": "images",
-        "image": "/assets/img/projects/prog/2.png",
+        "image": "/assets/add/alarm.jpg",
         "title": "Car Alarm Installation"
       },
       {
         "id": "8",
         "filter": "images",
-        "image": "/assets/img/projects/prog/3.jpeg",
+        "image": "/assets/add/car comp.png",
         "title": "Car Computer Repair"
       },
       {
         "id": "9",
         "filter": "videos",
-        "cover": "/assets/img/projects/prog/1.jpeg",
+        "cover": "/assets/add/youtube.png",
         "video":"/assets/videos/vid1.mp4",
         "title": "Car battery Repair"
       },
       {
         "id": "10",
         "filter": "videos",
-        "cover": "/assets/img/projects/prog/1.jpeg",
+        "cover": "/assets/add/youtube.png",
         "video":"/assets/videos/vid2.mp4",
         "title": "Car Audio System Upgrades"
       },
       {
         "id": "11",
         "filter": "videos",
-        "cover": "/assets/img/projects/prog/1.jpeg",
+        "cover": "/assets/add/youtube.png",
         "video":"/assets/add/highway (1).mp4",
         "title": "Car Ac Repair & Refill"
       },
       {
         "id": "12",
         "filter": "videos",
-        "cover": "/assets/img/projects/prog/1.jpeg",
+        "cover": "/assets/add/youtube.png",
         "video":"/assets/add/highway (2).mp4",
         "title": "Car Key Cutting"
       }
