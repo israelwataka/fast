@@ -1,0 +1,24 @@
+[
+  {
+    "image": "/assets/img/icons/ch1.png",
+    "title": "Expertise and Experience",
+    "desc": {
+      "desc1": "we pride ourselves on having a team of highly skilled and experienced automotive professionals. ",
+      "desc2": "Our Technicians undergo continuous training to stay updated with the latest advancements in automotive technology."
+    }
+  },
+  {
+    "image": "/assets/img/icons/ch2.png",
+    "title": "Comprehensive Service Range",
+    "desc": {
+      "desc1": "We offer a comprehensive range of automotive services designed",
+      "desc2": "to meet all your car care needs."
+    }
+  },
+  {
+    "image": "/assets/img/icons/ch3.png",
+    "title": "Customer-Centric Approach",
+    "desc": "Customer satisfaction is at the heart of everything we do at Highway Autosolutions. We believe in building long-term relationships with our customers by providing exceptional service and personalized care."
+    
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "picture": "/assets/blog/user.png",
+    "name": "M E",
+    "position": "CEO Founder"
+  },
+  {
+    "picture": "/assets/blog/user.png",
+    "name": "B K",
+    "position": "Automotive Technician"
+  },
+  {
+    "picture": "/assets/blog/user.png",
+    "name": "D N",
+    "position": "Service Manager"
+  },
+  {
+    "picture": "/assets/blog/user.png",
+    "name": "R Jr",
+    "position": "Customer Service"
+  },
+  {
+    "picture": "/assets/blog/user.png",
+    "name": "A A",
+    "position": "Parts Specialist"
+  }
+]

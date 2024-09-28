@@ -7,7 +7,7 @@ const Portfolio = () => {
         <div className="row justify-content-center">
           <div className="col-lg-6 col-md-10">
             <div className="sec-head text-center mb-80">
-              <h2>Our Services.</h2>
+              <h2>Service Gallery.</h2>
             </div>
           </div>
           <div className="col-12">

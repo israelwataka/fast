@@ -1,0 +1,23 @@
+[
+  {
+    "userImg": "/assets/blog/user.png",
+    "stars": 5,
+    "comment": "Great experience! Professional team and excellent customer service.!",
+    "username": "Ibrahima K.",
+    "position": "Teacher"
+  },
+  {
+    "userImg": "/assets/blog/user.png",
+    "stars": 5,
+    "comment": "Highway Auto Solutions always delivers. Quick, affordable, and trustworthy!",
+    "username": "Ben S.",
+    "position": "I.S.P"
+  },
+  {
+    "userImg": "/assets/blog/user.png",
+    "stars": 5,
+    "comment": "Fast and reliable service! My car key was replaced in no time. Highly recommended!",
+    "username": "Alexander A.",
+    "position": "Business Man"
+  }
+]

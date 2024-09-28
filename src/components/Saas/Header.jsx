@@ -43,7 +43,7 @@ const Header = () => {
         <div className="row justify-content-center">
           <div className="col-lg-8">
             <div className="info">
-              <h1>Welcome to Highway Auto Spares
+              <h1>Welcome to Highway Auto Solutions
                 <span>
                 Quality Parts, Trusted Service, Every Time
                   {/* <img src="/assets/img/header/head5_pen.png" alt="" className="head-pen" /> */}

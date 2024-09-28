@@ -21,7 +21,7 @@ const PageServiceDetails = () => {
   const [serviceTitle, setServiceTitle] = useState('Service Details');
 
   useEffect(() => {
-    navbarScrollEffect(navbarRef.current, true);
+    navbarScrollEffect(navbarRef.current, false);
 
     if (services) {
       const service = detailsData.find(detail => detail.id === services);
@@ -39,7 +39,7 @@ const PageServiceDetails = () => {
 
       <MainLayout>
         <>
-        <TopNav style="5" />
+        <TopNav style="4" />
         <Navbar navbarRef={navbarRef} />
         </>
         <Header page="Service Details" title={serviceTitle} />

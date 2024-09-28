@@ -36,7 +36,7 @@ const Navbar = ({ navbarRef }) => {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light style-4" ref={navbarRef}>
+    <nav className="navbar navbar-expand-lg navbar-light style-4" ref={navbarRef} style={{ zIndex: 999, marginTop: '0px' }}>
       <div className="container">
         <Link href="/">
           <a className="navbar-brand">
