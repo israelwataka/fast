@@ -8,8 +8,8 @@ import Features from '@components/Preview/Features';
 import Services from '@components/Preview/Services';
 import Contact from '@components/Preview/Contact';
 import BuyNow from '@components/Preview/BuyNow';
-import Video from '@components/Preview/Video';
-import Team from '@components/Preview/Team';
+// import Video from '@components/Preview/Video';
+// import Team from '@components/Preview/Team';
 import Choose from '@components/Portfolio/Choose';
 import Contact2 from '@components/Portfolio/Contact2'
 import Portfolio from '@components/Preview/Portfolio';
@@ -41,8 +41,8 @@ const LandingPreview = () => {
         <Header />
         {/* <Features /> */}
         <Services />
-        <Video />
-        <Team />
+        {/* <Video />
+        <Team /> */}
         <BuyNow />
         <Choose />
         <Portfolio />
