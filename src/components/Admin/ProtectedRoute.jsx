@@ -15,31 +15,14 @@ export default function ProtectedRoute({ children }) {
   if (loading) {
     return (
       <div style={{
-        minHeight: '100vh',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        background: '#f7fafc'
+        minHeight: '100vh',
+        fontSize: '1.2rem',
+        color: '#666'
       }}>
-        <div style={{
-          textAlign: 'center'
-        }}>
-          <div style={{
-            width: '50px',
-            height: '50px',
-            border: '4px solid #e2e8f0',
-            borderTopColor: '#667eea',
-            borderRadius: '50%',
-            animation: 'spin 1s linear infinite',
-            margin: '0 auto 20px'
-          }}></div>
-          <p style={{ color: '#718096' }}>Loading...</p>
-          <style jsx>{`
-            @keyframes spin {
-              to { transform: rotate(360deg); }
-            }
-          `}</style>
-        </div>
+        Loading...
       </div>
     );
   }
@@ -48,5 +31,5 @@ export default function ProtectedRoute({ children }) {
     return null;
   }
 
-  return <>{children}</>;
+  return children;
 }
