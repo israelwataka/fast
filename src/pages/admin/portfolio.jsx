@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import ProtectedRoute from '../../components/Admin/ProtectedRoute';
 import AdminLayout from '../../components/Admin/AdminLayout';
-import { supabase } from '../../lib/supabase';
+import { apiClient } from '../../lib/api';
 import { FiEdit2, FiTrash2, FiPlus, FiX, FiSave } from 'react-icons/fi';
 
 export default function PortfolioManagement() {

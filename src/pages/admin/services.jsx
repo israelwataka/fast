@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import ProtectedRoute from '../../components/Admin/ProtectedRoute';
 import AdminLayout from '../../components/Admin/AdminLayout';
-import { supabase } from '../../lib/supabase';
+import { apiClient } from '../../lib/api';
 import { FiEdit2, FiTrash2, FiPlus, FiX, FiSave } from 'react-icons/fi';
 
 export default function ServicesManagement() {
@@ -26,15 +26,11 @@ export default function ServicesManagement() {
 
   const fetchServices = async () => {
     setLoading(true);
-    const { data, error } = await supabase
-      .from('services')
-      .select('*')
-      .order('order_position', { ascending: true });
-
-    if (error) {
-      console.error('Error fetching services:', error);
-    } else {
+    try {
+      const data = await apiClient.get('/api/services');
       setServices(data || []);
+    } catch (error) {
+      console.error('Error fetching services:', error);
     }
     setLoading(false);
   };
@@ -42,31 +38,18 @@ export default function ServicesManagement() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    if (editingService) {
-      const { error } = await supabase
-        .from('services')
-        .update(formData)
-        .eq('id', editingService.id);
-
-      if (error) {
-        alert('Error updating service: ' + error.message);
-      } else {
+    try {
+      if (editingService) {
+        await apiClient.put(`/api/services/${editingService.id}`, formData);
         alert('Service updated successfully!');
-        resetForm();
-        fetchServices();
-      }
-    } else {
-      const { error } = await supabase
-        .from('services')
-        .insert([formData]);
-
-      if (error) {
-        alert('Error creating service: ' + error.message);
       } else {
+        await apiClient.post('/api/services', formData);
         alert('Service created successfully!');
-        resetForm();
-        fetchServices();
       }
+      resetForm();
+      fetchServices();
+    } catch (error) {
+      alert('Error: ' + error.message);
     }
   };
 
@@ -87,16 +70,12 @@ export default function ServicesManagement() {
   const handleDelete = async (id) => {
     if (!confirm('Are you sure you want to delete this service?')) return;
 
-    const { error } = await supabase
-      .from('services')
-      .delete()
-      .eq('id', id);
-
-    if (error) {
-      alert('Error deleting service: ' + error.message);
-    } else {
+    try {
+      await apiClient.delete(`/api/services/${id}`);
       alert('Service deleted successfully!');
       fetchServices();
+    } catch (error) {
+      alert('Error: ' + error.message);
     }
   };
 

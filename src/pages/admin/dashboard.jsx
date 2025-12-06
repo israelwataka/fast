@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import ProtectedRoute from '../../components/Admin/ProtectedRoute';
 import AdminLayout from '../../components/Admin/AdminLayout';
-import { supabase } from '../../lib/supabase';
+import { apiClient } from '../../lib/api';
 import { FiBriefcase, FiFileText, FiImage, FiUsers, FiStar, FiHelpCircle } from 'react-icons/fi';
 
 export default function AdminDashboard() {
@@ -23,21 +23,21 @@ export default function AdminDashboard() {
   const fetchStats = async () => {
     try {
       const [services, blogPosts, portfolio, team, testimonials, faqs] = await Promise.all([
-        supabase.from('services').select('id', { count: 'exact', head: true }),
-        supabase.from('blog_posts').select('id', { count: 'exact', head: true }),
-        supabase.from('portfolio_items').select('id', { count: 'exact', head: true }),
-        supabase.from('team_members').select('id', { count: 'exact', head: true }),
-        supabase.from('testimonials').select('id', { count: 'exact', head: true }),
-        supabase.from('faqs').select('id', { count: 'exact', head: true })
+        apiClient.get('/api/services'),
+        apiClient.get('/api/blog'),
+        apiClient.get('/api/portfolio'),
+        apiClient.get('/api/team'),
+        apiClient.get('/api/testimonials'),
+        apiClient.get('/api/faqs')
       ]);
 
       setStats({
-        services: services.count || 0,
-        blogPosts: blogPosts.count || 0,
-        portfolio: portfolio.count || 0,
-        team: team.count || 0,
-        testimonials: testimonials.count || 0,
-        faqs: faqs.count || 0
+        services: services.length || 0,
+        blogPosts: blogPosts.length || 0,
+        portfolio: portfolio.length || 0,
+        team: team.length || 0,
+        testimonials: testimonials.length || 0,
+        faqs: faqs.length || 0
       });
     } catch (error) {
       console.error('Error fetching stats:', error);
