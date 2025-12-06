@@ -10,6 +10,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.15.0",
+    "@supabase/supabase-js": "^2.86.2",
     "axios": "^0.27.2",
     "bootstrap": "^5.3.3",
     "lightgallery": "^2.5.0",
